@@ -1,0 +1,12 @@
+"use strict";
+let d = 1;
+let e = 2;
+let f;
+f = d + e;
+console.log(f);
+f = d - e;
+console.log(f);
+f = d * e;
+console.log(f);
+f = d / e;
+console.log(f);

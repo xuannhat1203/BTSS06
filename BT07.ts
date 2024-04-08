@@ -1,0 +1,11 @@
+let i: number = 1;
+let k: number = 2;
+let l: number;
+l = i + k;
+console.log(l);
+l = i - k;
+console.log(l);
+l = i * k;
+console.log(l);
+l = i / k;
+console.log(l);
